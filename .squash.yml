@@ -8,3 +8,4 @@ deployments:
       password: $REGISTRY_PASSWORD
     environment:
       TEST_VAL=$REGISTRY_PASSWORD
+
